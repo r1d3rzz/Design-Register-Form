@@ -1,0 +1,81 @@
+body{
+	font-family: sans-serif;
+}
+.mainTable{
+	margin: 0 auto;
+	background: rgba(225, 225, 225, 0.5);
+	backdrop-filter: blur(10px);
+	margin-top: 150px;
+	padding: 30px;
+	border-radius: 10px;
+	font-size: 20px;
+}
+.inputTitle{
+	text-align: right;
+	padding: 2px 6px;
+}
+.inputBox{
+	background: rgba(225, 225, 225, 0.5);
+	backdrop-filter: blur(10px);
+	border: none;
+	padding: 5px 10px;
+	outline: none;
+	font-size: 15px;
+	border-radius: 5px;
+}
+.inputBtn{
+	background: purple;
+	font-size: 15px;
+	font-weight: bolder;
+	padding: 5px 10px;
+	margin-top: 10px;
+	border-radius: 5px;
+	border: none;
+	color: white;
+	outline: none;
+}
+.linkBox{
+	font-size: 15px;
+}
+.welTable{
+	margin: 0 auto;
+	margin-top: 150px;
+	height: 200px;
+	font-size: 30px;
+	width: 800px;
+	padding: 10px;
+	border: none;
+	background: rgba(225, 225, 225, 0.5);
+	backdrop-filter: blur(10px);
+}
+.resTxt{
+	background-color: blue;
+	color: white;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+.t1{
+	padding: 10px 0;
+}
+.logoutLink{
+	text-decoration: none;
+	background-color: red;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+}
+.logoutLink:hover{
+	color: yellow;
+}
+.signUpTable{
+	margin: 0 auto;
+	margin-top: 150px;
+}
+.signTitle{
+	text-align: right;
+	padding: 5px 10px;
+}
+.signhead{
+	padding: 10px;
+	font-weight: bold;
+}
